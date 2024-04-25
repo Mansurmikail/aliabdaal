@@ -1,0 +1,125 @@
+.help{
+    border-bottom:  5px solid lightskyblue;
+    width: 130px;
+   }
+  
+   .ptya{
+    border-left:  5px solid lightskyblue;
+    height: 50px;
+    
+   }
+
+   input [type=email]{
+    width: 50px;
+   }
+   
+
+   .img{
+    width: 400px;
+    height: 400px;
+    
+   }
+
+   .die{
+    width: 120px;
+    height: auto;
+   }
+
+   .die{
+    float: left;
+    position: relative;
+    padding-right: 20px;
+   }
+
+   p a{
+    text-decoration: none;
+   }
+
+   .back{
+    background-color: skyblue;
+    width: 40%;
+    padding: 30px;
+   }
+
+   .ceo{
+    border: none ;
+    padding: 20px;
+    background-color:beige;
+    border-radius: 4px;
+    width: 90%;
+   }
+
+
+   .scale{
+    border: none ;
+    padding: 20px;
+    background-color:beige;
+    border-radius: 4px;
+    width: 90%;
+   }
+
+   .ceo a{
+    text-decoration: none;
+    color: black;
+   }
+
+   .scale a{
+    text-decoration: none;
+    color: black;
+   }
+
+  .alli{
+    width: 90%;
+    height: 90vh;
+    border-radius: 10px;
+    position: relative;
+  }
+
+  .social{
+    padding-left: 150px;
+    position: absolute;
+    margin: 10px;
+   
+    
+    
+  }
+
+  .social i:hover{
+    color:aquamarine;
+  }
+  .part{
+    padding-right: 20px;
+  }
+
+  .reel h1 i{
+    align-items: center;
+    padding-right: 20px;
+    width: 40p%;
+  }
+
+
+  footer{
+    background-color: black;
+    color: white;
+  }
+
+  .links{
+    padding-left: 30px;
+    padding-bottom: 30px;
+  }
+
+  ul{
+    
+    display: block;
+    list-style-type: none;
+    margin-bottom: 50px;
+  }
+
+  ul li a{
+    text-decoration: none;
+    color: white;
+  }
+
+
+
+  
